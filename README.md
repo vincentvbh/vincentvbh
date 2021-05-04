@@ -3,6 +3,8 @@
 
 <img src="https://github-readme-stats.vincentvbh.vercel.app/api?username=vincentvbh&count_private=true&include_all_commits=true" />
 
+<img src="https://github-readme-stats.vincentvbh.vercel.app/api/top-langs/?username=vincentvbh" />
+
 <!--
 **vincentvbh/vincentvbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
